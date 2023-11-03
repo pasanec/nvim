@@ -29,6 +29,7 @@ use ({ 'projekt0n/github-nvim-theme' })
   use('ThePrimeagen/harpoon')
   use('mbbill/undotree')
   use('tpope/vim-fugitive')
+  use('ikatyang/tree-sitter-vue')
 
   use {
 	  'VonHeikemen/lsp-zero.nvim',
